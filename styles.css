@@ -45,7 +45,7 @@ p {
 }
 
 .lg,
-md {
+.md {
   background-color: black;
   border: 0;
 }
@@ -62,4 +62,8 @@ md {
 .calories-info span {
   font-size: 1.2em;
   margin-top: -7px;
+}
+
+.md {
+  height: 5px;
 }
