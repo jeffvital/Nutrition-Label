@@ -68,3 +68,11 @@ p {
 .md {
   height: 5px;
 }
+
+.indent {
+  margin-left: 1em;
+}
+
+.daily-value p:not (.no-divid) {
+  border-bottom: 1px solid #888989;
+}
