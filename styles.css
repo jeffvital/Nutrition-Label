@@ -1,5 +1,5 @@
 html {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 * {
@@ -78,5 +78,5 @@ p {
 }
 
 .dbl-indent {
-  margin: 2em;
+  margin-left: 2em;
 }
